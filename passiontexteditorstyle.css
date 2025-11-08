@@ -3,10 +3,10 @@
 
 /* root variables for theme */
 :root {
-    --theme1: #880000;
-    --theme2: #e8e8e8;
-    --txt: #000000;
-    --bg: #cccccc;
+    --theme1: #C8D3F5;
+    --theme2: #181825;
+    --txt: #E0DEF4;
+    --bg: #1E1E2E;
 }
 
 /* universal styles */
