@@ -14,10 +14,10 @@ function resetTheme() {
                 }
 
                 // Explicit default theme values (you can replace these with your own)
-                const defaultTheme1 = '#880000';
-                const defaultTheme2 = '#e8e8e8';
-                const defaultBgColor = '#cccccc';
-                const defaultTxtColor = '#000000';
+                const defaultTheme1 = '#C8D3F5';
+                const defaultTheme2 = '#181825';
+                const defaultBgColor = '#1E1E2E';
+                const defaultTxtColor = '#E0DEF4';
 
                 // Apply the default theme instantly by setting these values directly to the document's root CSS
                 document.documentElement.style.setProperty('--theme1', defaultTheme1);
